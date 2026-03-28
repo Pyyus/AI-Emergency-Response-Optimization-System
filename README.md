@@ -126,4 +126,4 @@ Feel free to fork this repository and improve the project!
 
 ## Live
 
-https://aihospitalfinder.streamlit.app/
+https://hospitalfinder.streamlit.app/
