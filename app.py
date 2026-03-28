@@ -22,14 +22,12 @@ st.markdown("""
     }
     .subtitle {
         font-size: 18px;
-        color: #555;
         text-align: center;
         margin-bottom: 30px;
     }
     .card {
         padding: 20px;
         border-radius: 12px;
-        background-color: #ffffff;
         box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
         margin-bottom: 15px;
     }
