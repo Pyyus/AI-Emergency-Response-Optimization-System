@@ -90,7 +90,9 @@ location_text = st.sidebar.selectbox(
     [
         "Jubilee Hills", "Somajiguda", "Banjara Hills",
         "Secunderabad", "Gachibowli", "Paradise"
-    ]
+    ],
+    index = None,
+    placeholder = "Select Location"
 )
 
 user_lat, user_lon = None, None
