@@ -1,0 +1,7 @@
+hospital_name,address,latitude,longitude,available_beds,available_doctors,specialist
+Apollo Hospital,Jubilee Hills,17.4239,78.4738,20,10,Cardiologist
+Yashoda Hospital,Somajiguda,17.426,78.456,15,8,Neurologist
+Care Hospital,Banjara Hills,17.4126,78.4482,10,6,Orthopedic
+KIMS Hospital,Secunderabad,17.4399,78.4983,25,12,General
+AIG Hospital,Gachibowli,17.4401,78.3489,18,9,Multi-specialist
+Sunshine Hospital,Paradise,17.4415,78.495,12,7,Emergency
